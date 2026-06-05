@@ -68,10 +68,14 @@
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon-DynamoDB-FF9900?style=for-the-badge&labelColor=232F3E)
 ![Amazon Cognito](https://img.shields.io/badge/Amazon-Cognito-FF9900?style=for-the-badge&labelColor=232F3E)
 ![Amazon SQS](https://img.shields.io/badge/Amazon-SQS-FF9900?style=for-the-badge&labelColor=232F3E)
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&labelColor=232F3E)
+![Amazon API Gateway](https://img.shields.io/badge/AWS-API_Gateway-FF9900?style=for-the-badge&labelColor=232F3E)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon-CloudWatch-FF9900?style=for-the-badge&labelColor=232F3E)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **AI & Tools**
 
