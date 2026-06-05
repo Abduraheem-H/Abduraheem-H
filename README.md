@@ -62,12 +62,12 @@
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Amazon Cognito](https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white)
-![Amazon SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&labelColor=232F3E)
+![Amazon EC2](https://img.shields.io/badge/Amazon-EC2-FF9900?style=for-the-badge&labelColor=232F3E)
+![Amazon S3](https://img.shields.io/badge/Amazon-S3-FF9900?style=for-the-badge&labelColor=232F3E)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon-DynamoDB-FF9900?style=for-the-badge&labelColor=232F3E)
+![Amazon Cognito](https://img.shields.io/badge/Amazon-Cognito-FF9900?style=for-the-badge&labelColor=232F3E)
+![Amazon SQS](https://img.shields.io/badge/Amazon-SQS-FF9900?style=for-the-badge&labelColor=232F3E)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
