@@ -14,10 +14,11 @@
 
 - 🔭 Software engineer building **microservices, REST APIs, full-stack web apps, AI tools & automation**
 - 🏢 Engineer at **[ReiSearch](https://github.com/rei1search)** — a real-estate intelligence platform on a **Go · TypeScript · Python** microservices architecture (property-data pipelines, search, recommendations, real-time & payment services)
+- ☁️ Building & operating **cloud-native infrastructure** — AWS, serverless, Kubernetes & Terraform
 - 🎓 Computer Science @ **Addis Ababa University (AAiT)** — active in the [**CS Department**](https://github.com/ComputerScienceDeptAAU) & **Google Developer Student Clubs (GDSC)**
 - 🧠 Into **AI/ML** — from LLM-powered apps (Gemini, OpenAI) to classical search (Minimax, alpha-beta pruning)
 - ⚡ Core languages: **Python · TypeScript · JavaScript · Go · PHP**
-- 💬 Ask me about **FastAPI, Django, Next.js, React, Go microservices & Python automation**
+- 💬 Ask me about **FastAPI, Django, Next.js, React, Go microservices, AWS & cloud infrastructure**
 - 💼 **Open to internships, freelance & collaboration**
 
 ---
@@ -51,14 +52,26 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Databases & Infra**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Amazon Cognito](https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
 **AI & Tools**
 
@@ -74,7 +87,7 @@
 
 | Organization | Focus |
 |---|---|
-| 🏢 [**ReiSearch**](https://github.com/rei1search) | Building Go / TypeScript / Python **microservices** for a real-estate intelligence platform — property-data ingestion, search, recommendations, real-time services & payments |
+| 🏢 [**ReiSearch**](https://github.com/rei1search) | Building Go / TypeScript / Python **microservices** for a real-estate intelligence platform — property-data ingestion, search, recommendations, real-time services & payments, deployed **cloud-native on AWS** with **Kubernetes & Terraform** |
 | 🎓 [**AAU — CS Department**](https://github.com/ComputerScienceDeptAAU) | Academic & team projects, incl. a university **entrance-exam prep platform** and an **AI legal-advisory system** |
 | 🌍 **Google Developer Student Clubs (GDSC)** | Data structures & algorithms practice, peer learning & community builds |
 
